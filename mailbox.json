@@ -1,0 +1,52 @@
+[
+    {
+        "id": "20251211160325",
+        "data": "2025-12-11 16:03:25",
+        "expeditor": "alpacaNEWS@yahoo.com",
+        "destinatar": "barosan69@gmail.com",
+        "subiect": "Winter SALES",
+        "mesaj": "WE are happy to announce our winter SALE which is going to be on for 1 WEEK.Come visit alpaca.com\r\n",
+        "diagnostic": "ham",
+        "incredere": "98.26%"
+    },
+    {
+        "id": "20251212163502",
+        "data": "2025-12-12 16:35:02",
+        "expeditor": "tripitropa@gmail.com",
+        "destinatar": "etti@gmail.com",
+        "subiect": "Restanta",
+        "mesaj": "Va informam ca ati primit restanta la baze 1\r\n",
+        "diagnostic": "spam",
+        "incredere": "99.94%"
+    },
+    {
+        "id": "20251212163520",
+        "data": "2025-12-12 16:35:20",
+        "expeditor": "tripitropa12@gmail.com",
+        "destinatar": "etti@gmail.com",
+        "subiect": "Restanta",
+        "mesaj": "Va informam ca ati primit restanta la baze 1\r\n",
+        "diagnostic": "spam",
+        "incredere": "99.94%"
+    },
+    {
+        "id": "20251214100516",
+        "data": "2025-12-14 10:05:16",
+        "expeditor": "openai@gmail.com",
+        "destinatar": "stefanutz44@gmail.com",
+        "subiect": "Subscription notification",
+        "mesaj": "We are here to inform you that we will substract an amount of 10.99 dollars from your bank account regarding chatGPT subscription.This is a notification.\r\n",
+        "diagnostic": "spam",
+        "incredere": "99.99%"
+    },
+    {
+        "id": "20251214152303",
+        "data": "2025-12-14 15:23:03",
+        "expeditor": "notspam@gmail.com",
+        "destinatar": "pospai@yahoo.com",
+        "subiect": "no subject ",
+        "mesaj": "YOU WON A FREE CAR .ENTER CARD WWW.notscam.com\r\n",
+        "diagnostic": "spam",
+        "incredere": "99.98%"
+    }
+]
